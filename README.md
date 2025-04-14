@@ -1,44 +1,45 @@
-﻿# Actividad0-SofiaKalpin
-# Django Tutorial (Partes 1 a 4)
+# **Actividad0 - SofiaKalpin**  
+**Django Tutorial (Partes 1 a 4)**
 
-Este repositorio contiene el código del tutorial de Django, abarcando desde la creación del proyecto hasta la implementación de vistas genéricas y el sistema de votación.
+Este repositorio contiene el código correspondiente al tutorial de Django, cubriendo desde la creación del proyecto hasta la implementación de vistas genéricas y un sistema de votación.
 
-## Requisitos
+---
 
-Tener instalado:
+## **Requisitos**
 
-Python3: https://www.python.org/downloads/
+Asegúrate de tener instalados los siguientes programas:
 
-Django5: https://www.djangoproject.com/download/
+- **Python 3**: [Descargar](https://www.python.org/downloads/)
+- **Django 5**: [Descargar](https://www.djangoproject.com/download/)
 
-### Commits realizados
-Parte 1
+---
 
-    [Parte 1.1] Crea proyecto mysite
-    
-    [Parte 1.2] Crea app polls
+## **Commits Realizados**
 
-Parte 2
+### **Parte 1: Creación del Proyecto y la Aplicación**
+- **[1.1]** Creación del proyecto `mysite`
+- **[1.2]** Creación de la app `polls`
 
-    [Parte 2.0] Configura SQLite y migraciones
-    
-    [Parte 2.1] Define modelos Question/Choice
+### **Parte 2: Configuración de la Base de Datos y Modelos**
+- **[2.0]** Configuración de SQLite y migraciones
+- **[2.1]** Definición de los modelos `Question` y `Choice`
 
-Parte 3
+### **Parte 3: Implementación de Vistas Básicas**
+- **[3.0]** Implementación de vistas básicas
+- **[3.1]** Uso de templates para vistas
 
-    [Parte 3.0] Implementa vistas básicas
-    
-    [Parte 3.1] Usa templates
+### **Parte 4: Sistema de Votación y Vistas Genéricas**
+- **[4.0]** Implementación del sistema de votación
+- **[4.1]** Uso de vistas genéricas para simplificar el código
 
-Parte 4
+---
 
-    [Parte 4.0] Sistema de votación
-    
-    [Parte 4.1] Vistas genéricas
+## **Ejecución del Proyecto**
 
-### Ejecución
+Para ejecutar el proyecto, sigue estos pasos:
+
 ```bash
 python manage.py migrate
 python manage.py runserver
 ```
-Se accede a: http://localhost:8000/polls/1/
+Se accede en: http://localhost:8000/polls/1/

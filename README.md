@@ -14,27 +14,27 @@ Django5: https://www.djangoproject.com/download/
 ### Commits realizados
 Parte 1
 
-[Parte 1.1] Crea proyecto mysite
-
-[Parte 1.2] Crea app polls
+  [Parte 1.1] Crea proyecto mysite
+  
+  [Parte 1.2] Crea app polls
 
 Parte 2
 
-[Parte 2.0] Configura SQLite y migraciones
-
-[Parte 2.1] Define modelos Question/Choice
+  [Parte 2.0] Configura SQLite y migraciones
+  
+  [Parte 2.1] Define modelos Question/Choice
 
 Parte 3
 
-[Parte 3.0] Implementa vistas básicas
-
-[Parte 3.1] Usa templates
+  [Parte 3.0] Implementa vistas básicas
+  
+  [Parte 3.1] Usa templates
 
 Parte 4
 
-[Parte 4.0] Sistema de votación
-
-[Parte 4.1] Vistas genéricas
+  [Parte 4.0] Sistema de votación
+  
+  [Parte 4.1] Vistas genéricas
 
 ### Ejecución
 ```bash

@@ -3,6 +3,9 @@
 
 Este repositorio contiene el código correspondiente al tutorial de Django, cubriendo desde la creación del proyecto hasta la implementación de vistas genéricas y un sistema de votación.
 
+Puedes seguir el tutorial completo en la documentación oficial de Django:  
+**[Django 5.0 Tutorial - Parte 1](https://docs.djangoproject.com/es/5.0/intro/tutorial01/)**
+
 ---
 
 ## **Requisitos**
